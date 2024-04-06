@@ -1,4 +1,4 @@
-# scaffol_and_widget
+# Simple Counter App
 
 A new Flutter project.
 
